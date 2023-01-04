@@ -6,6 +6,7 @@ body {
 
 .header {
     display: flex;
+    background: #1F2937;
 }
 
 .header .logo {
@@ -20,4 +21,9 @@ body {
     margin-left: 150px;
     gap: 12px;
     
+}
+
+.header .links a{
+    text-decoration: none;
+    color: grey;
 }
