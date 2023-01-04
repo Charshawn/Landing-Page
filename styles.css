@@ -26,11 +26,12 @@ body {
     margin-left: 150px;
     gap: 12px;
     
+    
 }
 
 .header .links a{
     text-decoration: none;
-    color: grey;
+    color: lightgray;
 }
 
 .WebsiteDescription {
@@ -44,4 +45,7 @@ body {
     font-weight: bold;
     font-size: large;
     color: white;
+}
+.WebsiteDescription .Subtext {
+    color: lightgrey;
 }
