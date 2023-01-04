@@ -136,3 +136,8 @@ body {
     color: #1F2937;
     font-weight: bolder;
 }
+
+.Notification {
+    height: 300px;
+    background-color: white;
+}
