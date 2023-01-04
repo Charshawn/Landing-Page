@@ -78,7 +78,24 @@ body {
     margin-top: -250px;
     margin-left: 100px;
 }
-
+.InfoTitle {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #1F2937;
+    font-size: 25px;
+    margin-top: 50px;
+    font-weight: bold;
+}
 .Information {
     display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.Information img{
+    height: 150px;
+    width: 200px;
+}
+
+.Information p{
+    text-align: center;
 }
