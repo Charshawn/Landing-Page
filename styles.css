@@ -4,6 +4,11 @@ body {
     margin: 0;
 }
 
+.logo img{
+    height: 50px;
+    width: 70px;
+}
+
 .header {
     display: flex;
     background: #1F2937;
