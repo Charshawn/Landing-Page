@@ -34,24 +34,26 @@ body {
     color: lightgray;
 }
 
+.WebsiteDescription, .TitleImage {
+    width: 320px;
+    height: 150px;
+}
 .WebsiteDescription {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    margin-left: 100px;
-    margin-top: -250px;
+    
 }
 .WebsiteDescription .Title {
     font-weight: bolder;
     font-size: 48px;
     color: #F9FAF8;
-    width: 320px;
+   
 
 }
 .WebsiteDescription .Subtext {
     color: #E5E7EB;
     font-size: 18px;
-    width: 320px;
 }
 
 .WebsiteDescription .Sign-Up {
@@ -68,4 +70,11 @@ body {
 .WebsiteDescription .Sign-Up:hover{
     background-color: #8bade5;
     
+}
+
+.WebsiteDescription, .TitleImage {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -250px;
+    margin-left: 100px;
 }
