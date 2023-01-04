@@ -54,6 +54,12 @@ body {
 .WebsiteDescription .Sign-Up {
     background-color: #3882F6;
     color: white;
-    padding: 0px;
+    padding: 10px 24px;
     border-radius: 5px;
+    border: 5px solid #3882F6 ;
+    transition-duration: .4s;
+}
+
+.WebsiteDescription .Sign-Up:hover{
+    background-color: #8bade5;
 }
