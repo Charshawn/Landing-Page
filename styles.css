@@ -11,4 +11,10 @@ body {
 .header .logo {
     font-size: medium;
     font-weight: bold;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+.header .links {
+    margin-right: 100px;
 }
