@@ -98,4 +98,6 @@ body {
 
 .Information p{
     text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
 }
