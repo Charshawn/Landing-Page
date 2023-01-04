@@ -1,12 +1,14 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+    padding: 0;
+    margin: 0;
 
 }
 
 .header {
     display: flex;
     background: #1F2937;
+    height: 300px;
 }
 
 .header .logo {
@@ -14,6 +16,7 @@ body {
     font-weight: bold;
     margin-left: 100px;
     margin-right: 300px;
+    color: white;
 }
 
 .header .links {
