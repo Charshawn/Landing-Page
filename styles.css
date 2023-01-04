@@ -38,7 +38,10 @@ body {
     align-items: flex-start;
     flex-direction: column;
     margin-left: 100px;
-    
-
-    
+    margin-top: -200px;
+}
+.WebsiteDescription .Title {
+    font-weight: bold;
+    font-size: large;
+    color: white;
 }
