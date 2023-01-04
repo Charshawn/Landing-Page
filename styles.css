@@ -52,7 +52,12 @@ body {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    position: relative;
     
+}
+
+.TitleImage {
+    position: absolute;
 }
 .WebsiteDescription .Title {
     font-weight: bolder;
