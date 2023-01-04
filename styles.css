@@ -108,3 +108,20 @@ body {
     font-weight: bold;
     text-decoration: underline;
 }
+
+.Quote {
+    display: flex;
+    background-color: #E5E7EB;
+    height: 300px;
+    align-items: center;
+}
+
+.Quote .quotetext {
+    font-size: 24px;
+    color: #1F2937;
+    font-style: italic;
+    text-align: center;
+    margin-inline: 100px;
+    
+
+}
