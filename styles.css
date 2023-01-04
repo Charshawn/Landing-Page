@@ -205,4 +205,16 @@ body {
     background-color: lightblue;
 }
 
+.Copyright {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: #1F2937;
+    
+}
 
+
+.CopyrightText {
+    color: #8bade5;
+    margin-top: 30px;
+}
